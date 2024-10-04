@@ -1,0 +1,17 @@
+# تجاهل مجلد myenv
+myenv/
+images/
+# تجاهل ملف scool.db
+school.db
+models/database.py
+
+# تجاهل مجلدات __pycache__ 
+models/__pycache__/
+
+# تجاهل جميع ملفات .pyc
+*.pyc
+
+# تجاهل أي مجلدات أو ملفات أخرى تتعلق بالبناء
+*.egg-info/
+dist/
+build/
