@@ -3,7 +3,7 @@ myenv/
 images/
 # تجاهل ملف scool.db
 school.db
-models/database.py
+
 
 # تجاهل مجلدات __pycache__ 
 models/__pycache__/
